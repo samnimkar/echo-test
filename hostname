@@ -1,2 +1,0 @@
-echo " this is the system "
-echo `hostname -i` 
