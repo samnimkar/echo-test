@@ -18,3 +18,6 @@ function CopyText() {
   );
 }
 ```
+```
+print(" here is the code Output: welcome to pythone")
+```
